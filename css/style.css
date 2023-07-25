@@ -692,6 +692,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     -o-transition: all 0.3s;
     transition: all 0.3s;
 }
+
 .prt_profile_slider h4{
 	display:inline-block;
 	width:100%;
@@ -1257,6 +1258,7 @@ button.prt_btn.prt_btn_portfolio {
 }
 .prt_portfolio_text h4{
 	font-size:18px;
+    font-weight: bold;
 	text-transform:uppercase;
 	color:#000000;
 	margin-top:0px;
